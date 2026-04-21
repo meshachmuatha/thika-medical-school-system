@@ -1,0 +1,1 @@
+# thika-medical-school-system
