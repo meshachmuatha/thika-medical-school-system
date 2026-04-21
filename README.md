@@ -1,4 +1,4 @@
-# Thika Medical System (No SQL)
+# Thika Medical System
 
 ## Features
 - Multi-user login
